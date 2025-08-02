@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center; 
+    background-color: #333333;
+    color: #fff;
+    padding: 15px; 
+    letter-spacing: 2px;
+}
+form
+{
+    margin-top: 30px; 
+    padding: 0px 100px;
+}
+h4
+{
+    text-align : center;
+    color:red
+}
+.text-container{
+    display: flex; /* Makes the container a flex container */
+    gap: 10px; /* Adds space between the items (optional) */
+    align-items: right;
+    /* flex-direction: row; (default, but can be explicitly set) */
+    /* align-items: center; (to vertically align items, optional) */
+}
+.text-container-new{
+    display: flex; /* Makes the container a flex container */
+    gap: 10px; /* Adds space between the items (optional) */
+    /* flex-direction: row; (default, but can be explicitly set) */
+    align-items: right;
+}
